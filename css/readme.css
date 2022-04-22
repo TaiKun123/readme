@@ -199,13 +199,17 @@ table {
     border: 2px solid rgb(0, 0, 0);
     width: 30%;
     height: 80%;
+    text-decoration: none;
 }
 .myself  i{
     font-size:125px ;
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    color: #000;
+    color: #000;  
+}
+.myself a{
+    text-decoration: none;
 }
 .myself i:hover{
     font-size:140px ;
@@ -229,6 +233,9 @@ table {
     justify-content: center;
     margin-top: 20px;
     color: #000;
+}
+.motivation a{
+    text-decoration: none;
 }
 .motivation i:hover{
     font-size:140px ;
