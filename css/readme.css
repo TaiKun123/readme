@@ -92,12 +92,13 @@ table {
     align-items: center;
     box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.7);
 }
-.connect li i{
-    color: rgb(98, 1, 90);
+.connect li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
-.connect li i:hover{
+.connect li:hover{
     font-size: 25px;
-    color:rgba(152, 23, 124, 0.508);
+    color:rgba(115, 115, 115, 0.508);
 }
 .photo{
     width: 80%;
